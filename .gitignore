@@ -1,5 +1,7 @@
 .venv/
 venv/
+.agents/
+.claude/
 __pycache__/
 *.py[cod]
 .env
